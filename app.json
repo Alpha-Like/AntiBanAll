@@ -6,7 +6,7 @@
     "SpL",
     "Anti",
     "Ban",
-    "All",
+    "All"
   ],
     "buildpacks": [{
     "url": "heroku/python"
