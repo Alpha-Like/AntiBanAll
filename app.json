@@ -3,10 +3,10 @@
   "description": "To Avoid Ban All Shits",
   "logo": "https://telegra.ph/file/777a1eaa6635c0ee19102.jpg",
   "keywords": [
-    "SpL,
-    "Anti
-    "Ban
-    "All
+    "SpL",
+    "Anti",
+    "Ban",
+    "All",
   ],
     "buildpacks": [{
     "url": "heroku/python"
