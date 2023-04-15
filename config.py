@@ -13,7 +13,7 @@ SUDO_USERS = g("SUDO_USERS", "").split() # example : "12578627 74992683"
 ADMINS = []
 GROUPS = []
 
-for x in ADMIN_IDS:
+for x in SUDO_USERS:
     ADMINS.append(int(x))
 
 for y in GROUP_IDS:
